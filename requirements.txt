@@ -17,3 +17,8 @@ cryptography
 streamlit_extras
 gdoctableapppy
 ruff
+fastapi
+uvicorn
+twilio
+langchain_core
+google-cloud-aiplatform

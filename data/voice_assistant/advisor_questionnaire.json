@@ -1,0 +1,42 @@
+[
+    {
+        "index": "Q0",
+        "question": "What is your current age?",
+        "description": "The question asks for the respondent's current age in years."
+    },
+    {
+        "index": "Q1",
+        "question": "Are you married or unmarried?",
+        "description": "The question asks for the respondent's marital status."
+    },
+    {
+        "index": "Q2",
+        "question": "Number of dependents",
+        "description": "How many people are dependent upon you such as parent, wife or children."
+    },
+    {
+        "index": "Q3",
+        "question": "Do you have any other financial assets?",
+        "description": "List of financial assets not mentioned in account aggregator summary."
+    },
+    {
+        "index": "Q4",
+        "question": "Do you have any non-financial assets?",
+        "description": "List of Non financial assets such as gold and real estate."
+    },
+    {
+        "index": "Q5",
+        "question": "For how long do you want to invest your money?",
+        "description": "The question inquires about the duration for which the respondent plans to hold their investments."
+    },
+    {
+        "index": "Q6",
+        "question": "If your investments make 15% or more loss in a year, what would you do?",
+        "description": "The question asks how the respondent would respond to a significant loss in their investment portfolio over the course of a year."
+    },
+    {
+        "index": "Q7",
+        "question": "What is your primary goal while choosing investment option?",
+        "description": "The question asks for the main objective or reason behind the respondent's selection of investment opportunities."
+    }
+]

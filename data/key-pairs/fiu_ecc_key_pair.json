@@ -1,0 +1,15 @@
+{
+    "privateKey": "-----BEGIN PRIVATE KEY-----MIICRwIBADCB6gYHKoZIzj0CATCB3gIBATArBgcqhkjOPQEBAiB/////////////////////////////////////////7TBEBCAqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqYSRShRAQge0Je0Je0Je0Je0Je0Je0Je0Je0Je0Je0JgtenHcQyGQEQQQqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq0kWiCuGaG4oIa04B7dLHdI0UySPU1+bXxhsinpxaJ+ztPZAiAQAAAAAAAAAAAAAAAAAAAAFN753qL3nNZYEmMaXPXT7QIBCASCAVMwggFPAgEBBCAJaJ8fnaLuDLu8UpBA5LGikCGiOVy6NHfFljJItUCkyKCB4TCB3gIBATArBgcqhkjOPQEBAiB/////////////////////////////////////////7TBEBCAqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqYSRShRAQge0Je0Je0Je0Je0Je0Je0Je0Je0Je0Je0JgtenHcQyGQEQQQqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq0kWiCuGaG4oIa04B7dLHdI0UySPU1+bXxhsinpxaJ+ztPZAiAQAAAAAAAAAAAAAAAAAAAAFN753qL3nNZYEmMaXPXT7QIBCKFEA0IABD7QAFF37nS9hBi77GiaGVFJl4gRNsrEVL8xTZs0ozrOcWykMOFGXtnOSsX+f867BRfMgjpqRKvqtF7/npcNse4=-----END PRIVATE KEY-----",
+    "errorInfo": null,
+    "KeyMaterials": {
+        "cryptoAlg": "ECDH",
+        "curve": "curve25519",
+        "params": "",
+        "DHPublicKey": {
+            "expiry": "2025-10-31T06:01:48.716Z",
+            "Parameter": "",
+            "KeyValue": "-----BEGIN PUBLIC KEY-----MIIBMTCB6gYHKoZIzj0CATCB3gIBATArBgcqhkjOPQEBAiB/////////////////////////////////////////7TBEBCAqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqYSRShRAQge0Je0Je0Je0Je0Je0Je0Je0Je0Je0Je0JgtenHcQyGQEQQQqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq0kWiCuGaG4oIa04B7dLHdI0UySPU1+bXxhsinpxaJ+ztPZAiAQAAAAAAAAAAAAAAAAAAAAFN753qL3nNZYEmMaXPXT7QIBCANCAAQ+0ABRd+50vYQYu+xomhlRSZeIETbKxFS/MU2bNKM6znFspDDhRl7ZzkrF/n/OuwUXzII6akSr6rRe/56XDbHu-----END PUBLIC KEY-----"
+        }
+    },
+    "Nonce": "xzm/LaxK/XBy+lQzzLDveuVDc12eRhnp/RSc3nqmG6o="
+}
